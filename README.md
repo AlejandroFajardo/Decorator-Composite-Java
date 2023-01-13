@@ -1,2 +1,2 @@
 # Decorator-Composite-Java
-Aplicación donde se emplea el patrón decorator y el patrón composite en java 
+Application where the decorator pattern and the composite pattern are used in java
